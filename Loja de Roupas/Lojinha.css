@@ -1,0 +1,118 @@
+
+body, html{
+
+
+    
+}
+
+.cabeçalho{
+
+    height: 32vh;
+    width: 100%;
+    background-color: beige;
+    margin: 0;
+    padding:1px;
+    text-align: center;
+   
+    
+}
+
+.Cab1{
+
+   height: 20vh;
+   width: 100%;
+ 
+   margin: 0px;
+   padding: 0px;
+   
+
+
+}
+
+.Abas1{
+
+    float:left;
+    width: 371.6px;
+    height: 15vh;
+}
+
+.Abas2{
+
+    float: right;
+    width: 371.6px;
+    height: 15vh;
+    
+    
+}
+
+.Img{
+    width: 371.6px;
+    height: 15vh;
+    text-align: center;
+    display:inline-block;
+   
+}
+.Cab2{
+
+    
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+}
+
+#carrinho{
+
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 7vh;
+    margin-right: 40px;
+}
+
+#login{
+
+
+        display: inline-block;
+        margin-right: 40px;
+        margin-top: 7vh;
+        
+
+}
+
+#lojas{
+
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 7vh;
+    margin-right:
+}
+
+#servico{
+
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 7vh;
+    
+
+   
+}
+
+#home{
+  
+display: inline-block;
+margin-left: 45px;
+
+
+}
+
+#produtoI{
+    margin-top: 40px;
+    display: inline-block;
+    margin-left:250.5px
+}
+
+#sobre{
+
+    
+    display: inline-block;
+    margin-left: 250.5px;
+}
