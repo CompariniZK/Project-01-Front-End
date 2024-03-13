@@ -46,11 +46,13 @@ body, html{
 }
 
 .Img{
-    width: 371.6px;
+    width: 340.6px;
     height: 15vh;
     text-align: center;
     display:inline-block;
-   
+    margin-top: 4.5vh;
+    margin-left: 10px;
+    
 }
 .Cab2{
 
@@ -58,6 +60,7 @@ body, html{
     height: 10vh;
     width: 100%;
     text-align: center;
+    line-height: 0vh;
 }
 
 #carrinho{
@@ -97,22 +100,26 @@ body, html{
 }
 
 #home{
-  
-display: inline-block;
-margin-left: 45px;
 
-
+    font-size:20px;
+    float:left;
+    margin-left: 80px;
 }
+
 
 #produtoI{
-    margin-top: 40px;
-    display: inline-block;
-    margin-left:250.5px
+
+
+    font-size:20px;
+    float: left;
+    margin-left: 70px;
 }
+
 
 #sobre{
 
-    
-    display: inline-block;
-    margin-left: 250.5px;
+
+    font-size:20px;
+    float: right;
+    margin-right: 170px;
 }
