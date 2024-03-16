@@ -1,10 +1,7 @@
+body{
 
-body, html{
-
-
-    
+    font-family: 'Nunito', sans-serif;
 }
-
 .cabeçalho{
 
     height: 32vh;
@@ -70,6 +67,8 @@ body, html{
     margin-left: 10px;
     margin-top: 7vh;
     margin-right: 40px;
+    font-size: 13px;
+
 }
 
 #login{
@@ -78,6 +77,8 @@ body, html{
         display: inline-block;
         margin-right: 40px;
         margin-top: 7vh;
+        font-size: 13px;
+
         
 
 }
@@ -87,7 +88,8 @@ body, html{
     display: inline-block;
     margin-left: 40px;
     margin-top: 7vh;
-    margin-right:
+    font-size: 13px;
+
 }
 
 #servico{
@@ -95,6 +97,7 @@ body, html{
     display: inline-block;
     margin-left: 40px;
     margin-top: 7vh;
+    font-size: 13px;
     
 
    
@@ -123,4 +126,45 @@ body, html{
     font-size:20px;
     float: right;
     margin-right: 170px;
+}
+
+.promocao{
+
+    height: 16vh;
+    width: 60%;
+    margin: 10vh auto;
+    background-color: aquamarine;
+}
+
+.boxPromo{
+
+   height: 16vh;
+   width:  80%;
+   margin:auto auto;
+   text-align: center;
+   line-height: 12vh;
+   
+
+}
+
+#Promo{
+
+    vertical-align: middle;
+    margin-top: 0vh;
+    margin-bottom:0vh;
+    height: 35px;
+    margin-block-end: 0em;
+    
+}
+
+#obs{
+
+    vertical-align: middle;
+    height: 40px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    
+    
+
+    
 }
