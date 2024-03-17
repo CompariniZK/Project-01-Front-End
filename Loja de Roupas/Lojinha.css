@@ -168,3 +168,69 @@ body{
 
     
 }
+
+.Imagens{
+
+
+    height: 1200px;
+    width: 90%;
+    text-align: center;
+    margin: auto auto;
+}
+
+.ExemploGG{
+
+
+    height: 600px;
+    width:650px; 
+    display: inline-block;
+}
+
+.ImagensMenores{
+
+    height: 400px;
+    width:90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10vh;
+    
+
+}
+
+#modelo2{
+
+
+  
+}
+
+#subtitulo2{
+
+    margin-bottom: 7vh;
+}
+
+.modelo1{
+
+    
+    height: 350px;
+    width: 300px;
+    display: inline-block;
+    margin-right: 1.5vw;
+
+    
+}
+
+.modelo2{
+
+    display: inline-block;
+    height: 350px;
+    width: 300px ;
+    margin-left: 1.5vw;
+}
+
+.FimPag{
+
+    
+    height: 300px;
+    width: 100% ;
+    background-color: darkslategray;
+}
