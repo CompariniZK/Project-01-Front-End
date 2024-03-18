@@ -234,3 +234,47 @@ body{
     width: 100% ;
     background-color: darkslategray;
 }
+
+.FormsEnd{
+
+    height:200px;
+    width: 500px;
+    margin-left: 10vw;
+
+}
+
+.Telefone{
+
+    margin-top:5vh;
+}
+
+.Email{
+
+    margin-top: 5vh;
+
+
+}
+
+.Nome{
+
+    margin-top: 7vh;
+}
+
+#Subtittle3{
+
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 5vh;
+    width: 200px;
+    height: 20px;
+    max-height: 100%;
+    
+}
+
+#BotaoEnvio{
+
+    float: right;
+}
+
