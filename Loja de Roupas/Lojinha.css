@@ -240,6 +240,8 @@ body{
     height:200px;
     width: 500px;
     margin-left: 10vw;
+    display:inline-block;
+
 
 }
 
@@ -278,3 +280,20 @@ body{
     float: right;
 }
 
+.contact{
+
+    height: 180px;
+    display:inline-block;
+    margin-left: 12vw;
+    width: 215px;
+    ;
+    
+
+}
+
+#contactzin{
+
+
+    margin-bottom: 5vh;
+
+}
