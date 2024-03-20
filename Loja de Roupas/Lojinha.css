@@ -52,6 +52,14 @@ body{
     margin-left: 10px;
     
 }
+
+
+.Img:hover img{
+
+    transform: scale(1.1);
+    transition-duration: 0.6s;
+}
+
 .Cab2{
 
     
@@ -71,6 +79,12 @@ body{
 
 }
 
+#carrinho:hover{
+
+    color:green;
+    text-decoration: underline;
+}
+
 #login{
 
 
@@ -83,6 +97,12 @@ body{
 
 }
 
+#login:hover{
+
+    color: green;
+    text-decoration: underline green;
+}
+
 #lojas{
 
     display: inline-block;
@@ -90,6 +110,13 @@ body{
     margin-top: 7vh;
     font-size: 13px;
 
+}
+
+#lojas:hover{
+
+    color:green;
+    text-decoration: underline;
+    
 }
 
 #servico{
@@ -103,11 +130,25 @@ body{
    
 }
 
+#servico:hover{
+
+    color:green;
+    text-decoration:underline;
+}
+
 #home{
 
     font-size:20px;
     float:left;
     margin-left: 80px;
+}
+
+#home:hover{
+
+    color: green;
+    transform: scale(1.1);
+    transition-duration: 0.8s;
+
 }
 
 
@@ -117,6 +158,15 @@ body{
     font-size:20px;
     float: left;
     margin-left: 70px;
+
+}
+
+#produtoI:hover{
+
+    color:green;
+    transform: scale(1.1);
+    transition-duration: 0.6s;
+
 }
 
 
@@ -126,8 +176,15 @@ body{
     font-size:20px;
     float: right;
     margin-right: 170px;
+    
 }
+#sobre:hover{
 
+    color: green;
+    transform: scale(1.1);
+    transition-duration: 0.6s;
+
+}
 .promocao{
 
     height: 16vh;
