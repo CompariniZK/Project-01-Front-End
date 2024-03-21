@@ -230,10 +230,18 @@ body{
 
 
     height: 1200px;
-    width: 90%;
+    width: 60%;
     text-align: center;
     margin: auto auto;
 }
+
+#modelo2:hover{
+
+    transform: scale(1.1);
+    transition-duration: 0.6s;
+
+}
+
 
 .ExemploGG{
 
@@ -254,10 +262,26 @@ body{
 
 }
 
-#modelo2{
 
+.Modelo2:hover h4{
 
-  
+    transform:scale(1.1);
+    transition-duration: 0.6s;
+    text-decoration: underline;
+    
+}
+
+#modelo3:hover{
+
+    transform:scale(1.1);
+    transition-duration:0.6s;
+}
+
+.modelo1:hover h4{
+
+    transform:scale(1.1);
+    transition-duration: 0.6s;
+    text-decoration: underline;
 }
 
 #subtitulo2{
@@ -276,7 +300,7 @@ body{
     
 }
 
-.modelo2{
+.Modelo2{
 
     display: inline-block;
     height: 350px;
