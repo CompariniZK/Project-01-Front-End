@@ -185,6 +185,18 @@ body{
     transition-duration: 0.6s;
 
 }
+
+.link01{
+
+    text-decoration: none;
+    color:black;
+}
+
+.link01:hover{
+
+    color:green;
+    transition-duration: 0.6s;
+}
 .promocao{
 
     height: 16vh;
