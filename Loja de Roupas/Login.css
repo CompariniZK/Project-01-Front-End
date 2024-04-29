@@ -210,198 +210,23 @@ body{
     transition-duration: 0.6s;
 }
 
+.conteudoLogin{
 
-.promocao{
-
-    height: 16vh;
-    width: 60%;
-    margin: 10vh auto;
-    background-color: aquamarine;
-}
-
-.boxPromo{
-
-   height: 16vh;
-   width:  80%;
-   margin:auto auto;
-   text-align: center;
-   line-height: 12vh;
-   
-
-}
-
-#Promo{
-
-    vertical-align: middle;
-    margin-top: 0vh;
-    margin-bottom:0vh;
-    height: 35px;
-    margin-block-end: 0em;
-    
-}
-
-#obs{
-
-    vertical-align: middle;
-    height: 40px;
-    margin-block-start: 0em;
-    margin-block-end: 0em;
-    
-    
-
-    
-}
-
-.Imagens{
-
-
-    height: 1200px;
-    width: 60%;
+    height:65vh ;
+    width: 100%;
+    background-color: beige;
     text-align: center;
-    margin: auto auto;
-}
-
-#modelo2:hover{
-
-    transform: scale(1.1);
-    transition-duration: 0.6s;
-
-}
-
-
-.ExemploGG{
-
-
-    height: 600px;
-    width:650px; 
-    display: inline-block;
-}
-
-.ImagensMenores{
-
-    height: 400px;
-    width:90%;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 10vh;
     
 
 }
 
+.containerForms{
 
-.Modelo2:hover h4{
-
-    transform:scale(1.1);
-    transition-duration: 0.6s;
-    text-decoration: underline;
-    
-}
-
-#modelo3:hover{
-
-    transform:scale(1.1);
-    transition-duration:0.6s;
-}
-
-.modelo1:hover h4{
-
-    transform:scale(1.1);
-    transition-duration: 0.6s;
-    text-decoration: underline;
-}
-
-#subtitulo2{
-
-    margin-bottom: 7vh;
-}
-
-.modelo1{
-
-    
-    height: 350px;
-    width: 300px;
-    display: inline-block;
-    margin-right: 1.5vw;
-
-    
-}
-
-.Modelo2{
-
-    display: inline-block;
-    height: 350px;
-    width: 300px ;
-    margin-left: 1.5vw;
-}
-
-.FimPag{
-
-    
-    height: 300px;
-    width: 100% ;
-    background-color: darkslategray;
-}
-
-.FormsEnd{
-
-    height:200px;
-    width: 500px;
-    margin-left: 10vw;
-    display:inline-block;
+    height: 30vh;
+    width: 30vh;
+    margin: 15vh auto;
 
 
 }
 
-.Telefone{
-
-    margin-top:5vh;
-}
-
-.Email{
-
-    margin-top: 5vh;
-
-
-}
-
-.Nome{
-
-    margin-top: 7vh;
-}
-
-#Subtittle3{
-
-    margin-left: 0;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    padding-top: 5vh;
-    width: 200px;
-    height: 20px;
-    max-height: 100%;
-    
-}
-
-#BotaoEnvio{
-
-    float: right;
-}
-
-.contact{
-
-    height: 180px;
-    display:inline-block;
-    margin-left: 12vw;
-    width: 215px;
-    ;
-    
-
-}
-
-#contactzin{
-
-
-    margin-bottom: 5vh;
-
-}
-
+.
