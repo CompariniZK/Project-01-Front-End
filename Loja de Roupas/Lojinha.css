@@ -151,6 +151,18 @@ body{
 
 }
 
+.link02{
+
+    text-decoration: none;
+    color: black;
+}
+
+.link02:hover{
+
+    transition-duration:0.8s;
+    color:green
+}
+
 
 #produtoI{
 
@@ -197,6 +209,8 @@ body{
     color:green;
     transition-duration: 0.6s;
 }
+
+
 .promocao{
 
     height: 16vh;

@@ -150,7 +150,17 @@ body{
     transition-duration: 0.8s;
 
 }
+.link02{
 
+    text-decoration: none;
+    color: black;
+}
+
+.link02:hover{
+
+    transition-duration:0.8s;
+    color:green
+}
 
 #produtoI{
 
